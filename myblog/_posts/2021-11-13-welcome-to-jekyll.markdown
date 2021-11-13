@@ -7,7 +7,7 @@ categories: jekyll update
 
 We are the Flipping Penguins!
 <!-- ![Flipping Penguin](C:/Users/the1k/Documents/Wiscosin-GymACT/myblog/extra_files/flipping_penguins.jpg) -->
-![Flipping Penguin](https://github.com/kieran-nichols/Wisconsin-GymACT/tree/main/myblog/extra_files/flipping_penguins.jpg)
+![Flipping Penguin](extra_files/flipping_penguin.jpg)
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
