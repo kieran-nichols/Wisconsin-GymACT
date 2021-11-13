@@ -23,5 +23,5 @@ To grow gymnastics in Wisconsin and represent the state at the national level
 To provide boys with the opportunity to compete collegiately and receive a world class education right here in Wisconsin
 To give boys the opportunity to have the collegiate athletic experience in a team atmosphere
 
-<!-- [get the PDF](http://www.WIMensGymnasticsAlliance.com/myblog/pdfs/bylaws.pdf) -->
-[Wisconsin Men’s Gymnastics Alliance ByLaws](C:/Users/the1k/Documents/Wiscosin-GymACT/myblog/pdfs/bylaws.pdf)
+[Wisconsin Men’s Gymnastics Alliance ByLaws](https://github.com/kieran-nichols/Wisconsin-GymACT/tree/main/myblog/extra_files/bylaws.pdf)
+<!-- [Wisconsin Men’s Gymnastics Alliance ByLaws](C:/Users/the1k/Documents/Wiscosin-GymACT/myblog/extra_files/bylaws.pdf) -->
