@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 
 We are the Flipping Penguins!
-![Flipping Penguin]({{"https://github.com/kieran-nichols/Wisconsin-GymACT.github.io/blob/main/extra_files/flipping_penguin.jpg" |absolute_url}})
+![Flipping Penguin](/extra_files/flipping_penguin.jpg)
 
