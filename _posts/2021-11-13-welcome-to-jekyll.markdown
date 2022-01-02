@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 
 We are the Flipping Penguins!
-![Flipping Penguin]({{"extra_files/flipping_penguin.jpg" | absolute_url }})
+![Flipping Penguin]({{"/extra_files/flipping_penguin.jpg" | absolute_url }})
 
